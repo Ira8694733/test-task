@@ -1,0 +1,7 @@
+.button_user {
+    border: 1px solid black;
+    padding: 6px 9px;
+    width: 40px;
+    border-radius: 50%;
+    margin-left: 15px;
+}

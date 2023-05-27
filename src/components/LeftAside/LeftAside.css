@@ -1,0 +1,12 @@
+.left__aside {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5em;
+    width: 20%;
+    margin-top: 2.5em;
+}
+
+.left__aside-button {
+    width: 150px;
+}
