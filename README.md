@@ -19,5 +19,6 @@ You may also see any lint errors in the console.
 у вкладці Shop реадізувала сторінкт з продуктами: All products, laptops, smartfones, підтянувши дані з JSON
 використала React Redux, RTX-Query, Router, React Form, Bootstrap, CSS
 
+Деплой тетового завдання за посиланням https://my-repository-ten-iota.vercel.app/
 
 
